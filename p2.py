@@ -1,2 +1,3 @@
-print("world")
-print("13213")
+print("1")
+print("2")
+print("3")
